@@ -17,6 +17,7 @@ public class lengthOfLastWordInString {
 			else {
 				if (count>0)
 				System.out.println(count);
+				System.out.println(count);
 				break;
 			}
 		}
